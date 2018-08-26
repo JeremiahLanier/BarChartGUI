@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 24, 2017, 12:18:13 PM
+    Author     : Lanier
+*/
+
+
+
+.data0.chart-bar {
+    -fx-bar-fill: red;
+}
+.data1.chart-bar {
+    -fx-bar-fill: blue;
+}
+.data2.chart-bar {
+    -fx-bar-fill: green;
+}
+.data3.chart-bar {
+    -fx-bar-fill: orange;
+}
+
